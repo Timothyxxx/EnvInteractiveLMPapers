@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/Timothyxxx/EnvInteractiveLM?color=green)
 
-Paper collections of environment-interactive language model.
+Paper collections of methods that using language to interact with environment.
 
 ## Papers
 
@@ -18,3 +18,7 @@ Paper collections of environment-interactive language model.
 
    *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan*  [[pdf](https://arxiv.org/abs/2204.01691)] 2022.4
      
+2. **Few-shot Subgoal Planning with Language Models.** Arxiv.
+
+   *Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee*  [[pdf](arxiv.org/abs/2202.01771)] 2022.5
+ 
