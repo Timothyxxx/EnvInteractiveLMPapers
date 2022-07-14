@@ -18,7 +18,10 @@ Paper collections of methods that using language to interact with environment.
 
    *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan*  [[pdf](https://arxiv.org/abs/2204.01691)] 2022.4
      
-2. **Few-shot Subgoal Planning with Language Models.** Arxiv.
+4. **Few-shot Subgoal Planning with Language Models.** Arxiv.
 
    *Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee*  [[pdf](arxiv.org/abs/2202.01771)] 2022.5
  
+5. **A Generalist Agent.** Arxiv.
+
+   *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas*  [[pdf](https://arxiv.org/abs/2205.06175)] 2022.5
