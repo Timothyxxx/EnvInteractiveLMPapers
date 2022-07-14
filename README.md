@@ -33,3 +33,7 @@ Paper collections of methods that using language to interact with environment.
 7. **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.** Arxiv.
 
    *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2206.08853)] 2022.6
+
+8. **MLM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.** Arxiv.
+
+   *Dhruv Shah, Blazej Osinski, Brian Ichter, Sergey Levine*  [[pdf](https://arxiv.org/abs/2207.04429)] 2022.7
