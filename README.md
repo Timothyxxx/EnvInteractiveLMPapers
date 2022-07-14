@@ -25,3 +25,7 @@ Paper collections of methods that using language to interact with environment.
 5. **A Generalist Agent.** Arxiv.
 
    *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas*  [[pdf](https://arxiv.org/abs/2205.06175)] 2022.5
+
+6. **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos.** Arxiv.
+
+   *Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*  [[pdf](https://arxiv.org/abs/2206.11795)] 2022.6
