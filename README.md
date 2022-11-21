@@ -8,9 +8,15 @@ Paper collections of methods that using language to interact with environment, i
 1. **World of Bits: An Open-Domain Platform for Web-Based Agents** Arxiv.
 
    *Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang*  [[pdf](https://proceedings.mlr.press/v70/shi17a.html)] 2017
+
+2. **WebGPT: Browser-assisted question-answering with human feedback** Arxiv.
+
+   *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  [[pdf](https://arxiv.org/abs/2112.09332)] 2021.12
+   
 2. **FLIN: A Flexible Natural Language Interface for Web Navigation** Arxiv.
 
    *Sahisnu Mazumder, Oriana Riva*  [[pdf](https://arxiv.org/abs/2010.12844)] 2022.2
+
 3. **Improving Intrinsic Exploration with Language Abstractions.** Arxiv.
 
    *Jesse Mu, Victor Zhong, Roberta Raileanu, Minqi Jiang, Noah Goodman, Tim Rocktäschel, Edward Grefenstette*  [[pdf](https://arxiv.org/abs/2202.08938)] 2022.2
