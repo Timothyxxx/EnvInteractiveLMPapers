@@ -32,31 +32,47 @@ Paper collections of methods that using language to interact with environment, i
 7. **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** Arxiv.
 
    *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan*  [[pdf](https://arxiv.org/abs/2204.01691)] 2022.4
-     
-8. **Few-shot Subgoal Planning with Language Models.** Arxiv.
+
+8. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** Arxiv.
+
+   *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*  [[pdf]()] 2022.5
+
+9. **Few-shot Subgoal Planning with Language Models.** Arxiv.
 
    *Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee*  [[pdf](arxiv.org/abs/2202.01771)] 2022.5
  
-9. **A Generalist Agent.** Arxiv.
+10. **A Generalist Agent.** Arxiv.
 
    *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas*  [[pdf](https://arxiv.org/abs/2205.06175)] 2022.5
 
-10. **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos.** Arxiv.
+11. **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos.** Arxiv.
 
     *Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*  [[pdf](https://arxiv.org/abs/2206.11795)] 2022.6
 
-11. **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.** Arxiv.
+12. **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.** Arxiv.
 
     *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2206.08853)] 2022.6
 
-12. **MLM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.** Arxiv.
+13. **MLM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.** Arxiv.
 
     *Dhruv Shah, Blazej Osinski, Brian Ichter, Sergey Levine*  [[pdf](https://arxiv.org/abs/2207.04429)] 2022.7
 
-13. **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models.** Arxiv.
+14. **JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents** Arxiv.
+
+    *Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Di, Xuehai He, Xin Eric Wang*  [[pdf](https://arxiv.org/abs/2208.13266)] 2022.8
+    
+15. **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models.** Arxiv.
 
     *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg*  [[pdf](https://arxiv.org/abs/2209.11302)] 2022.9
 
-14. **ReAct: Synergizing Reasoning and Acting in Language Models.** Arxiv.
+16. **On Grounded Planning for Embodied Tasks with Language Models.** Arxiv.
+
+    *Bill Yuchen Lin, Chengsong Huang, Qian Liu, Wenda Gu, Sam Sommerer, Xiang Ren*  [[pdf](https://arxiv.org/abs/2209.00465)] 2022.9
+
+17. **Code as Policies: Language Model Programs for Embodied Control.** Arxiv.
+
+    *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng*  [[pdf](https://arxiv.org/abs/2209.07753)] 2022.9
+    
+18. **ReAct: Synergizing Reasoning and Acting in Language Models.** Arxiv.
 
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  [[pdf](https://arxiv.org/abs/2210.03629)] 2022.10
