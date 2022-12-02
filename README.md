@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/Timothyxxx/EnvInteractiveLM?color=green)
 
-Paper collections of methods that using language to interact with environment, including interact with real world or WWW(🏄).
+Paper collections of methods that using language to interact with environment, including interact with real world, simulated world or WWW(🏄).
 
 ## Papers
 1. **World of Bits: An Open-Domain Platform for Web-Based Agents** Arxiv.
