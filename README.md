@@ -76,3 +76,15 @@ Paper collections of methods that using language to interact with environment, i
 18. **ReAct: Synergizing Reasoning and Acting in Language Models.** Arxiv.
 
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  [[pdf](https://arxiv.org/abs/2210.03629)] 2022.10
+
+19. **Mind's Eye: Grounded Language Model Reasoning through Simulation.** Arxiv.
+
+    *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai*  [[pdf](https://arxiv.org/abs/2210.05359)] 2022.10
+
+20. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models.** Arxiv.
+
+    *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*  [[pdf](https://arxiv.org/abs/2212.04088)] 2022.12
+
+21. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** Arxiv.
+
+    *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)] 2022.12
