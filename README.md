@@ -81,10 +81,14 @@ Paper collections of methods that using language to interact with environment, i
 
     *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai*  [[pdf](https://arxiv.org/abs/2210.05359)] 2022.10
 
-20. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models.** Arxiv.
+20. **Planning with Large Language Models via Corrective Re-prompting.** Arxiv.
+
+    *Shreyas Sundara Raman, Vanya Cohen, Eric Rosen, Ifrah Idrees, David Paulius, Stefanie Tellex*  [[pdf](https://arxiv.org/abs/2211.09935)] 2022.11
+
+21. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models.** Arxiv.
 
     *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*  [[pdf](https://arxiv.org/abs/2212.04088)] 2022.12
 
-21. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** Arxiv.
+22. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** Arxiv.
 
     *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)] 2022.12
