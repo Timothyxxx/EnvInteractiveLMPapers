@@ -111,3 +111,7 @@ Paper collections of methods that using language to interact with environment, i
 26. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** Arxiv.
 
     *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)] 2022.12
+
+27. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents.** Arxiv.
+
+    *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*  [[pdf](https://arxiv.org/abs/2302.01560)] 2023.2
