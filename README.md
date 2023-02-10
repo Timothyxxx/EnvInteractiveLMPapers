@@ -115,3 +115,7 @@ Paper collections of methods that using language to interact with environment, i
 27. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents.** Arxiv.
 
     *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*  [[pdf](https://arxiv.org/abs/2302.01560)] 2023.2
+
+28. *Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning.** Arxiv.
+
+    *Thomas Carta, Clément Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer*  [[pdf](https://arxiv.org/abs/2302.02662)] 2023.2
