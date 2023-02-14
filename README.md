@@ -118,6 +118,10 @@ Paper collections of methods that using language to interact with environment, i
 
     *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*  [[pdf](https://arxiv.org/abs/2302.01560)] 2023.2
 
-28. *Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning.** Arxiv.
+28. **Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning.** Arxiv.
 
     *Thomas Carta, Clément Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer*  [[pdf](https://arxiv.org/abs/2302.02662)] 2023.2
+
+29. **Collaborating with language models for embodied reasoning.** Arxiv.
+
+    *Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus*  [[pdf](https://arxiv.org/abs/2302.00763)] 2023.2
