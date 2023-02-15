@@ -125,3 +125,7 @@ Paper collections of methods that using language to interact with environment, i
 29. **Collaborating with language models for embodied reasoning.** Arxiv.
 
     *Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus*  [[pdf](https://arxiv.org/abs/2302.00763)] 2023.2
+
+30. **Guiding Pretraining in Reinforcement Learning with Large Language Models.** Arxiv.
+
+    *Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas*  [[pdf](https://arxiv.org/abs/2302.06692)] 2023.2
