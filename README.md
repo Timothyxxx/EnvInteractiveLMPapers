@@ -44,19 +44,19 @@ Paper collections of methods that using language to interact with environment, i
 
 9. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** Arxiv.
 
-   *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*  [[pdf]()] 2022.5
+   *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*  [[pdf](https://arxiv.org/abs/2204.00598)] 2022.5
 
 10. **Few-shot Subgoal Planning with Language Models.** Arxiv.
 
-   *Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee*  [[pdf](arxiv.org/abs/2202.01771)] 2022.5
+    *Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee*  [[pdf](arxiv.org/abs/2202.01771)] 2022.5
  
 11. **A Generalist Agent.** Arxiv.
 
-   *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas*  [[pdf](https://arxiv.org/abs/2205.06175)] 2022.5
+    *Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas*  [[pdf](https://arxiv.org/abs/2205.06175)] 2022.5
 
 12. **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos.** Arxiv.
 
-    *Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*  [[pdf](https://arxiv.org/abs/2206.11795)] 2022.6
+     *Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*  [[pdf](https://arxiv.org/abs/2206.11795)] 2022.6
 
 13. **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.** Arxiv.
 
