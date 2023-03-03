@@ -129,3 +129,7 @@ Paper collections of methods that using language to interact with environment, i
 30. **Guiding Pretraining in Reinforcement Learning with Large Language Models.** Arxiv.
 
     *Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas*  [[pdf](https://arxiv.org/abs/2302.06692)] 2023.2
+
+31. **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control.** Arxiv.
+
+    *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*  [[pdf](https://grounded-decoding.github.io/paper.pdf)] 2023.3
