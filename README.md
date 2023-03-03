@@ -5,9 +5,9 @@
 Paper collections of methods that using language to interact with environment, including interact with real world, simulated world or WWW(🏄).
 
 ## Thesis
-1. **Continually Improving Grounded Natural Language Understanding through Human-Robot Dialog**, Prasoon Goyal, [[pdf](https://www.cs.utexas.edu/users/ml/papers/thomason.thesis18.pdf)],  2022
-
-2. **Using Natural Language to Aid Task Specification in Sequential Decision Making Problems**, Prasoon Goyal, [[pdf](https://www.cs.utexas.edu/users/ml/papers/goyal.phdthesis22.pdf)],  2022
+1. **Grounding natural language with autonomous interaction**, Karthik Rajagopal Narasimhan, [[pdf](https://dspace.mit.edu/handle/1721.1/114003)],  2017 
+2. **Continually Improving Grounded Natural Language Understanding through Human-Robot Dialog**, Jesse David Thomason, [[pdf](https://www.cs.utexas.edu/users/ml/papers/thomason.thesis18.pdf)],  2018
+3. **Using Natural Language to Aid Task Specification in Sequential Decision Making Problems**, Prasoon Goyal, [[pdf](https://www.cs.utexas.edu/users/ml/papers/goyal.phdthesis22.pdf)],  2022
 
 ## Papers
 1. **World of Bits: An Open-Domain Platform for Web-Based Agents** Arxiv.
