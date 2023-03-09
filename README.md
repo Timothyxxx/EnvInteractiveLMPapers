@@ -133,3 +133,12 @@ Paper collections of methods that using language to interact with environment, i
 31. **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control.** Arxiv.
 
     *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*  [[pdf](https://grounded-decoding.github.io/paper.pdf)] 2023.3
+
+32. **PaLM-E: An Embodied Multimodal Language Model.** Arxiv.
+
+    *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence*  [[pdf](https://palm-e.github.io/assets/palm-e.pdf)] 2023.3
+    
+
+33. **Foundation Models for Decision Making: Problems, Methods, and Opportunities.** Arxiv.
+
+    *Sherry Yang, Ofir Nachum, Yilun Du, Jason Wei, Pieter Abbeel, Dale Schuurmans*  [[pdf](https://arxiv.org/abs/2303.04129)] 2023.3
