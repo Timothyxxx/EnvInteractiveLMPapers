@@ -142,3 +142,7 @@ Paper collections of methods that using language to interact with environment, i
 33. **Foundation Models for Decision Making: Problems, Methods, and Opportunities.** Arxiv.
 
     *Sherry Yang, Ofir Nachum, Yilun Du, Jason Wei, Pieter Abbeel, Dale Schuurmans*  [[pdf](https://arxiv.org/abs/2303.04129)] 2023.3
+
+34. GPT-4
+
+[THE END]
