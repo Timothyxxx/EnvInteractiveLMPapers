@@ -1,6 +1,6 @@
 # EnvInteractive and Decision Making(personnal usage)
 
-![](https://img.shields.io/github/last-commit/Timothyxxx/EnvInteractiveLM?color=green)
+![](https://img.shields.io/github/last-commit/Timothyxxx/EnvInteractiveLMPapers?color=green)
 
 Paper collections of methods that using language to interact with environment, including interact with real world, simulated world or WWW(🏄).
 
