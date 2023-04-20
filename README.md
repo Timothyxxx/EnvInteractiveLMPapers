@@ -159,6 +159,14 @@ Paper collections of methods that using language to interact with environment, i
 
     *https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors*  [[code](https://github.com/Significant-Gravitas/Auto-GPT)] 2023.3
 
-38. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
+38. **API-Bank: A Benchmark for Tool-Augmented LLMs.** Arxiv.
+
+    *Minghao Li, Feifan Song, Bowen Yu, Haiyang Yu, Zhoujun Li, Fei Huang, Yongbin Li*  [[pdf](https://arxiv.org/abs/2304.08244)] 2023.4
+
+39. *Tool Learning with Foundation Models*.** Arxiv.
+
+    *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*  [[pdf](https://arxiv.org/abs/2304.08354)] 2023.4
+
+40. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
 
     *Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem*  [[pdf](https://arxiv.org/abs/2304.09349)] 2023.4
