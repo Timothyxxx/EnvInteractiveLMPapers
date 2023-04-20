@@ -147,4 +147,6 @@ Paper collections of methods that using language to interact with environment, i
 
 [THE END]?
 
-35
+35. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
+
+    *Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem*  [[pdf](https://arxiv.org/abs/2304.09349)] 2023.4
