@@ -147,6 +147,18 @@ Paper collections of methods that using language to interact with environment, i
 
 [THE END]?
 
-35. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
+35. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Arxiv.
+
+    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan*  [[pdf](https://arxiv.org/abs/2303.04671)] 2023.3
+
+36. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Arxiv.
+
+    *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2303.17580)] 2023.3
+
+37. **AutoGPT** GitHub.
+
+    *https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors*  [[code](https://github.com/Significant-Gravitas/Auto-GPT)] 2023.3
+
+38. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
 
     *Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem*  [[pdf](https://arxiv.org/abs/2304.09349)] 2023.4
