@@ -170,3 +170,8 @@ Paper collections of methods that using language to interact with environment, i
 40. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
 
     *Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem*  [[pdf](https://arxiv.org/abs/2304.09349)] 2023.4
+
+
+41. **Mind2Web: Towards a Generalist Agent for the Web.** Arxiv.
+
+    *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*  [[pdf](https://arxiv.org/abs/2306.06070)] 2023.6
