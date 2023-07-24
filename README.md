@@ -130,48 +130,59 @@ Paper collections of methods that using language to interact with environment, i
 
     *Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas*  [[pdf](https://arxiv.org/abs/2302.06692)] 2023.2
 
-31. **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control.** Arxiv.
+31. **Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals.** Arxiv.
+
+    *Yue Wu, Yewen Fan, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell*  [[pdf](https://arxiv.org/abs/2302.04449)] 2023.2
+
+32. **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control.** Arxiv.
 
     *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*  [[pdf](https://grounded-decoding.github.io/paper.pdf)] 2023.3
 
-32. **PaLM-E: An Embodied Multimodal Language Model.** Arxiv.
+33. **PaLM-E: An Embodied Multimodal Language Model.** Arxiv.
 
     *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence*  [[pdf](https://palm-e.github.io/assets/palm-e.pdf)] 2023.3
     
 
-33. **Foundation Models for Decision Making: Problems, Methods, and Opportunities.** Arxiv.
+34. **Foundation Models for Decision Making: Problems, Methods, and Opportunities.** Arxiv.
 
     *Sherry Yang, Ofir Nachum, Yilun Du, Jason Wei, Pieter Abbeel, Dale Schuurmans*  [[pdf](https://arxiv.org/abs/2303.04129)] 2023.3
 
-34. GPT-4
+35. GPT-4
 
 [THE END]?
 
-35. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Arxiv.
+36. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** Arxiv.
 
     *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan*  [[pdf](https://arxiv.org/abs/2303.04671)] 2023.3
 
-36. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Arxiv.
+37. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** Arxiv.
 
     *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2303.17580)] 2023.3
 
-37. **AutoGPT** GitHub.
+38. **AutoGPT** GitHub.
 
     *https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors*  [[code](https://github.com/Significant-Gravitas/Auto-GPT)] 2023.3
 
-38. **API-Bank: A Benchmark for Tool-Augmented LLMs.** Arxiv.
+39. **API-Bank: A Benchmark for Tool-Augmented LLMs.** Arxiv.
 
     *Minghao Li, Feifan Song, Bowen Yu, Haiyang Yu, Zhoujun Li, Fei Huang, Yongbin Li*  [[pdf](https://arxiv.org/abs/2304.08244)] 2023.4
 
-39. **Tool Learning with Foundation Models.** Arxiv.
+40. **Tool Learning with Foundation Models.** Arxiv.
 
     *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*  [[pdf](https://arxiv.org/abs/2304.08354)] 2023.4
 
-40. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
+41. **LLM as A Robotic Brain: Unifying Egocentric Memory and Control.** Arxiv.
 
     *Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem*  [[pdf](https://arxiv.org/abs/2304.09349)] 2023.4
 
+42. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents.** Arxiv.
 
-41. **Mind2Web: Towards a Generalist Agent for the Web.** Arxiv.
+    *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*  [[pdf](https://arxiv.org/abs/2305.02412)] 2023.5
+
+43. **SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning.** Arxiv.
+
+    *Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li*  [[pdf](https://arxiv.org/abs/2305.15486)] 2023.5
+
+44. **Mind2Web: Towards a Generalist Agent for the Web.** Arxiv.
 
     *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*  [[pdf](https://arxiv.org/abs/2306.06070)] 2023.6
