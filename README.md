@@ -186,3 +186,7 @@ Paper collections of methods that using language to interact with environment, i
 44. **Mind2Web: Towards a Generalist Agent for the Web.** Arxiv.
 
     *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*  [[pdf](https://arxiv.org/abs/2306.06070)] 2023.6
+
+45. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis.** Arxiv.
+
+    *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)] 2023.7
