@@ -190,3 +190,7 @@ Paper collections of methods that using language to interact with environment, i
 45. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis.** Arxiv.
 
     *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)] 2023.7
+
+46. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
+
+    *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
